@@ -1,5 +1,5 @@
 # Phonebook-with-Kotlin
-### Simple conslole reader Phonebook, writen on Kotlin.
+### Simple conslole reader Phonebook, written on Kotlin.
 
 ### Features:
 * Add User credentials using temlate (It's not nessary to use capital leters. RegEx automatically change it): 
